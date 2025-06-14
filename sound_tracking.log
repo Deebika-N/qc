@@ -1,0 +1,71 @@
+2025-06-14 13:48:19,952 - SoundTrackingApp - INFO - Loaded speech recognition model from E:\Qualcomm edge ai\vosk-model-small-en-us-0.15
+2025-06-14 13:48:19,953 - SoundTrackingApp - INFO - Recognition thread started
+2025-06-14 13:48:20,918 - SoundTrackingApp - INFO - Started audio stream
+2025-06-14 13:48:27,188 - SoundTrackingApp - INFO - Keywords detected: help
+2025-06-14 13:48:43,493 - SoundTrackingApp - INFO - Keywords detected: medicine
+2025-06-14 13:48:49,426 - SoundTrackingApp - INFO - Stopped audio stream
+2025-06-14 13:48:49,912 - SoundTrackingApp - INFO - Recognition thread stopped
+2025-06-14 13:48:57,015 - SoundTrackingApp - INFO - Loaded speech recognition model from E:\Qualcomm edge ai\vosk-model-small-en-us-0.15
+2025-06-14 13:48:57,017 - SoundTrackingApp - INFO - Recognition thread started
+2025-06-14 13:48:57,292 - SoundTrackingApp - INFO - Started audio stream
+2025-06-14 13:49:25,871 - SoundTrackingApp - INFO - Keywords detected: help
+2025-06-14 13:49:27,333 - SoundTrackingApp - INFO - Stopped audio stream
+2025-06-14 13:49:27,786 - SoundTrackingApp - INFO - Recognition thread stopped
+2025-06-14 13:51:10,138 - SoundTrackingApp - INFO - Added keyword: urgent
+2025-06-14 13:51:35,838 - SoundTrackingApp - INFO - Added keyword: ambulance
+2025-06-14 13:51:53,011 - SoundTrackingApp - INFO - Added keyword: fire
+2025-06-14 13:56:45,567 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 13:56:45,567 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 13:56:45,567 - werkzeug - INFO -  * Restarting with stat
+2025-06-14 13:56:46,538 - werkzeug - WARNING -  * Debugger is active!
+2025-06-14 13:56:46,544 - werkzeug - INFO -  * Debugger PIN: 109-156-840
+2025-06-14 13:57:03,428 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 13:57:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-06-14 13:57:03,654 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 13:57:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-06-14 13:57:03,683 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 13:57:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-06-14 13:57:03,787 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 13:57:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=KSr0HGE6neTDzTIUNvuI HTTP/1.1" 200 -
+2025-06-14 13:57:37,850 - werkzeug - INFO -  * Detected change in 'e:\\Qualcomm edge ai\\app.py', reloading
+2025-06-14 13:57:37,969 - werkzeug - INFO -  * Restarting with stat
+2025-06-14 13:57:39,377 - werkzeug - WARNING -  * Debugger is active!
+2025-06-14 13:57:39,385 - werkzeug - INFO -  * Debugger PIN: 109-156-840
+2025-06-14 13:58:19,628 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 13:58:19,628 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 13:58:19,628 - werkzeug - INFO -  * Restarting with stat
+2025-06-14 13:58:20,682 - werkzeug - WARNING -  * Debugger is active!
+2025-06-14 13:58:20,688 - werkzeug - INFO -  * Debugger PIN: 109-156-840
+2025-06-14 14:00:10,430 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-14 14:00:10,431 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-14 14:00:10,431 - werkzeug - INFO -  * Restarting with stat
+2025-06-14 14:00:12,365 - werkzeug - WARNING -  * Debugger is active!
+2025-06-14 14:00:12,376 - werkzeug - INFO -  * Debugger PIN: 109-156-840
+2025-06-14 14:00:24,368 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:00:24] "GET / HTTP/1.1" 200 -
+2025-06-14 14:00:24,393 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:00:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-06-14 14:00:24,777 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:00:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-14 14:02:20,937 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:02:20] "GET / HTTP/1.1" 200 -
+2025-06-14 14:02:21,006 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:02:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-06-14 14:02:21,012 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:02:21] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-06-14 14:03:15,502 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:03:15] "GET / HTTP/1.1" 200 -
+2025-06-14 14:03:15,522 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:03:15] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-06-14 14:03:15,530 - werkzeug - INFO - 127.0.0.1 - - [14/Jun/2025 14:03:15] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-06-14 14:13:18,412 - EmergencySoundTracker - INFO - Loaded speech recognition model from e:\Qualcomm edge ai\vosk-model-small-en-us-0.15
+2025-06-14 14:13:18,414 - EmergencySoundTracker - INFO - Recognition thread started
+2025-06-14 14:13:18,956 - EmergencySoundTracker - INFO - Started audio stream
+2025-06-14 14:13:46,527 - EmergencySoundTracker - INFO - Stopped audio stream
+2025-06-14 14:13:46,983 - EmergencySoundTracker - INFO - Recognition thread stopped
+2025-06-14 14:13:49,446 - EmergencySoundTracker - INFO - Loaded speech recognition model from e:\Qualcomm edge ai\vosk-model-small-en-us-0.15
+2025-06-14 14:13:49,447 - EmergencySoundTracker - INFO - Recognition thread started
+2025-06-14 14:13:49,661 - EmergencySoundTracker - INFO - Started audio stream
+2025-06-14 14:15:49,209 - EmergencySoundTracker - INFO - Stopped audio stream
+2025-06-14 14:15:49,778 - EmergencySoundTracker - INFO - Recognition thread stopped
+2025-06-14 17:16:41,967 - EmergencySoundTracker - INFO - Task scheduler started
+2025-06-14 17:31:59,025 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-14 17:31:59,079 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-14 17:32:05,123 - EmergencySoundTracker - INFO - Task scheduler started
+2025-06-14 17:32:40,142 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-14 17:32:40,184 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-14 17:42:19,450 - EmergencySoundTracker - INFO - Task scheduler started
+2025-06-14 18:10:55,485 - EmergencySoundTracker - INFO - Task scheduler started
+2025-06-14 18:11:01,490 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-14 18:11:01,585 - EmergencySoundTracker - INFO - Task scheduler stopped
