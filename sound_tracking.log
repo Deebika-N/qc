@@ -69,3 +69,702 @@
 2025-06-14 18:10:55,485 - EmergencySoundTracker - INFO - Task scheduler started
 2025-06-14 18:11:01,490 - EmergencySoundTracker - INFO - Task scheduler stopped
 2025-06-14 18:11:01,585 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:11:04,188 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:11:15,432 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:11:59,406 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:12:01,944 - root - INFO - Face recognition started
+2025-06-15 07:12:55,725 - root - INFO - Face recognition stopped
+2025-06-15 07:15:02,098 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:15:07,425 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:15:43,366 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:15:52,956 - root - INFO - Added new face for DEEBIKA
+2025-06-15 07:15:56,536 - root - INFO - Face recognition started
+2025-06-15 07:16:16,216 - root - INFO - Face recognition stopped
+2025-06-15 07:27:33,898 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:27:37,782 - root - INFO - Face monitoring started
+2025-06-15 07:27:39,919 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:28:01,766 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:28:02,165 - root - INFO - Face recognition started
+2025-06-15 07:42:39,819 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:42:46,286 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:43:06,760 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:06,761 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 07:43:06,761 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:06,762 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:06,762 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:06,762 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:06,762 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:06,762 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:06,763 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:07,523 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:07,525 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:07 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ26f10e013b87ea3a94c498afc6f1ccd4', 'Twilio-Request-Duration': '0.143', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 fb6514ed0fa65e8962789d347bfecb50.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'T3mELFuHEhqs-CCumJPHwNtDM62QetIIgQuVoP2x2kOO35rvxEdGFw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:07,527 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:07,528 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 07:43:07,530 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:07,531 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:07,532 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:07,533 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:07,534 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:07,535 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:07,536 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:07,825 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:07,827 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:07 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA57495260986ed9c41637ac38c01e6015', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ8f14c8d380a916695b2df247af78521c', 'Twilio-Request-Duration': '0.069', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 fb6514ed0fa65e8962789d347bfecb50.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'OyKn3hpSxlFt87U1Xu3i9VFwJq6ZU9baihOrbULVAhtP_QVZxi85_w==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:16,663 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:16,663 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 07:43:16,663 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:16,665 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:16,665 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:16,665 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:16,666 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:16,666 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:16,666 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:17,098 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:17,100 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:16 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ79140c6f9b4005880c552fa6ee238f3d', 'Twilio-Request-Duration': '0.130', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 a8f46a0f81ad5be499efe8a1372dd92a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'VgM2ajq6XzOFaeYjXwpGwx60fBKZOuvsS7iSqD-4HBGXU9g410eAQA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:17,102 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:17,103 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 07:43:17,104 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:17,105 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:17,106 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:17,106 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:17,107 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:17,108 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:17,109 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:17,429 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:17,431 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:17 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAdd512ca1654ce1370c14de706e6cffe3', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQe5cdc0a7f0c66cdf90fa15ba09aefc32', 'Twilio-Request-Duration': '0.079', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 a8f46a0f81ad5be499efe8a1372dd92a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '_9dgeAEjDHfuddTemIeiK-T3FWwWQ87Pg32gTNp63vBJ1F7uyrli_w==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:24,444 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:24,445 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 07:43:24,445 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:24,445 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:24,446 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:24,446 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:24,446 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:24,447 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:24,447 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:24,943 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:24,945 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:24 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ72402b97f930d21443a71cb1c7efa9d6', 'Twilio-Request-Duration': '0.125', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4f5f6d15bf3ffcae76e580384ce0416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'N5luP4CgdCVv_WJJyBWIVcGGfA_24trLKkMeW__lKflHpI8DFa2uNw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:24,948 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:43:24,950 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 07:43:24,951 - twilio.http_client - INFO - Headers:
+2025-06-15 07:43:24,952 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:43:24,953 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:43:24,954 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:43:24,956 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:43:24,957 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:43:24,958 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:43:25,285 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:43:25,286 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:13:24 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAab8564ef4a08c4df512f4b93b5b8295c', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ45eb459ebc8d89dcb45e4878678797b3', 'Twilio-Request-Duration': '0.080', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4f5f6d15bf3ffcae76e580384ce0416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '07kyC18ufUyFKD7slNoVWl5f5LJHHnFCspX6AOrC9-KKQ6nAcamLRw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:43:26,330 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:43:28,898 - root - INFO - Face recognition started
+2025-06-15 07:44:06,060 - root - INFO - Face recognition stopped
+2025-06-15 07:44:48,476 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:45:35,335 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:47:21,428 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:47:21,613 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:47:21,614 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 07:49:42,141 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:50:02,712 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:50:23,986 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:50:25,966 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:52:23,390 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:52:27,850 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:52:37,488 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:52:37,488 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:52:37,541 - EmergencySoundTracker - INFO - Monitoring system stopped
+2025-06-15 07:52:37,541 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:52:37,541 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 07:52:40,315 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 07:52:43,475 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:52:43,475 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:52:43,504 - EmergencySoundTracker - INFO - Monitoring system stopped
+2025-06-15 07:52:43,505 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 07:52:43,507 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 07:52:48,115 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 07:52:59,486 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:52:59,487 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 07:52:59,487 - twilio.http_client - INFO - Headers:
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:52:59,488 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:53:00,290 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:53:00,292 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:22:59 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ8947c39a044ebc94f9f518c2a85d1461', 'Twilio-Request-Duration': '0.150', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 080f0f4293eb18c5c10e07837c1c5416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '_1Lij3Ay-OaiCvSTavGnzq4b2RNY_V0Mi3FwSQP__TJ1fQ74mVY7zQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:53:00,293 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:53:00,293 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 07:53:00,294 - twilio.http_client - INFO - Headers:
+2025-06-15 07:53:00,295 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:53:00,295 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:53:00,296 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:53:00,297 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:53:00,298 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:53:00,298 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:53:00,599 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:53:00,600 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:23:00 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAedd57f82d8b555185797c3ef935102c9', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ6a522a07043af2f2bbdca489795e927d', 'Twilio-Request-Duration': '0.079', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 080f0f4293eb18c5c10e07837c1c5416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '8SvpJck-IdpFZXlFZ-NlHnvAyxipfz7b4Z2WATKzF9qDO0mXowSrtA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:53:06,687 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:53:06,688 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 07:53:06,689 - twilio.http_client - INFO - Headers:
+2025-06-15 07:53:06,690 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:53:06,691 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:53:06,693 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:53:06,694 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:53:06,695 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:53:06,697 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:53:07,108 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:53:07,109 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:23:06 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ51dc4d755d63865a60f7042d89cc2404', 'Twilio-Request-Duration': '0.135', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 7fadec67483932afc5d1809c0659de34.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'myJFH0Cji01FZ8zCUV4p1KgEaoIK3p0GiVX2HHZrE4cf7K5JYuEohA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:53:07,111 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 07:53:07,112 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 07:53:07,113 - twilio.http_client - INFO - Headers:
+2025-06-15 07:53:07,113 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 07:53:07,114 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 07:53:07,115 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 07:53:07,116 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 07:53:07,116 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 07:53:07,117 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 07:53:07,421 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 07:53:07,422 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:23:07 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAff647adc13bd2a47b33403c29313924b', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ4f76af6c6b4edece143f81a7dd99e5af', 'Twilio-Request-Duration': '0.081', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 7fadec67483932afc5d1809c0659de34.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'EmEaCMrGKH3RcuwLm8QLIW-TCCefnIfvnwstm7VLmgk3O49B4GWd2g==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 07:53:08,215 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 07:53:13,209 - root - INFO - Face recognition started
+2025-06-15 07:54:08,950 - root - INFO - Face recognition stopped
+2025-06-15 07:54:28,513 - root - INFO - Face recognition started
+2025-06-15 07:54:57,385 - root - INFO - Face recognition stopped
+2025-06-15 08:00:25,258 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:00:30,990 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 08:00:35,776 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:00:35,777 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 08:00:35,777 - twilio.http_client - INFO - Headers:
+2025-06-15 08:00:35,777 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:00:35,778 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:00:35,778 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:00:35,779 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:00:35,780 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:00:35,780 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:00:36,619 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:00:36,620 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:30:36 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQcc2f7b27aed56db269c88b97ba519fbb', 'Twilio-Request-Duration': '0.174', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 f511c4300e088170d2c0ce01959cf750.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'mobvVeGW-ySAEu4DGXnE3firo5ZdZ8NGW9EpKI9kK6nuDVC3aaSnMQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:00:36,621 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:00:36,622 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 08:00:36,623 - twilio.http_client - INFO - Headers:
+2025-06-15 08:00:36,623 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:00:36,624 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:00:36,625 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:00:36,626 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:00:36,627 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:00:36,628 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:00:36,936 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:00:36,937 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:30:36 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAcb87997d0b6039cc4e6544ec983b3878', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ61b1aa3e989c7e1158b7aa81b67fbd11', 'Twilio-Request-Duration': '0.070', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 f511c4300e088170d2c0ce01959cf750.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'OhqW7MJcwzWTsziplw4b4yWFV8hU5TlsxmTLiyJa6QjxLBTu2C-AAA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:00:49,374 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:00:49,374 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 08:00:49,376 - twilio.http_client - INFO - Headers:
+2025-06-15 08:00:49,376 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:00:49,377 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:00:49,380 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:00:49,382 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:00:49,383 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:00:49,384 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:00:49,866 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:00:49,866 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:30:49 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ0eb8dd4d88c75e1e3562dbbd69964e64', 'Twilio-Request-Duration': '0.133', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 30a3edeee0421eda2330eddbba537a1c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'HASoQ9ykYp9ep_XY5XA9vFDuD83nWnrn0wrebp69lSfB0gUGxOJLbg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:00:49,867 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:00:49,867 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 08:00:49,867 - twilio.http_client - INFO - Headers:
+2025-06-15 08:00:49,868 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:00:49,868 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:00:49,868 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:00:49,868 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:00:49,868 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:00:49,869 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:00:50,190 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:00:50,191 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:30:49 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA66e5895f85c3b5ff628dda4d812a4a5c', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ278baffa84bcc43da767a02d7bdb1ad9', 'Twilio-Request-Duration': '0.083', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 30a3edeee0421eda2330eddbba537a1c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'lIx9kVj8aV_IftfjB1P6CPOoBUAFGZgOjAaQV6PdHLZCrrYX8Ijq7A==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:00:51,373 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 08:00:56,398 - root - INFO - Face recognition started
+2025-06-15 08:01:10,548 - root - INFO - Face recognition stopped
+2025-06-15 08:01:17,137 - root - INFO - Face recognition started
+2025-06-15 08:01:32,660 - root - INFO - Added new face for deebika
+2025-06-15 08:01:41,117 - root - INFO - Face recognition stopped
+2025-06-15 08:04:29,099 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:04:38,305 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 08:05:09,686 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:05:09,687 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 08:05:09,687 - twilio.http_client - INFO - Headers:
+2025-06-15 08:05:09,688 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:05:09,688 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:05:09,689 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:05:09,689 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:05:09,689 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:05:09,689 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:05:10,488 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:05:10,489 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '836', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:35:10 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ9058c4712c3d08d821abe49d2a2dd8d5', 'Twilio-Request-Duration': '0.125', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4b7d888e73186740da95f88adba5686.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'iHkK38jemlRD_pCbNQomTCLIss8wVGvGbBF2RdkmYnHD1-7AiSj0Tg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:05:10,491 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:05:10,492 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 08:05:10,493 - twilio.http_client - INFO - Headers:
+2025-06-15 08:05:10,494 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:05:10,495 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:05:10,496 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:05:10,497 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:05:10,498 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:05:10,499 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:05:10,848 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:05:10,851 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:35:10 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAce85089306b16078ce00e2bdfcb5d969', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ79a5ad95740aa01ca5b1c9c5f6327efa', 'Twilio-Request-Duration': '0.074', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4b7d888e73186740da95f88adba5686.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'qn217crDSAKLAAexgycU4SdZQQLiNpTPzjvlkx8ak37dUIGzB2yRbA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:05:12,113 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 08:06:54,827 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:06:59,842 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 08:07:26,225 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:07:26,226 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 08:07:26,226 - twilio.http_client - INFO - Headers:
+2025-06-15 08:07:26,226 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:07:26,226 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:07:26,226 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:07:26,228 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:07:26,228 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:07:26,228 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:07:26,963 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:07:26,964 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:37:26 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQed7d5c2b7fd2c7aa2e91002427dea42f', 'Twilio-Request-Duration': '0.134', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 0261a45edf9fa8a52158083448fcb032.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'mbRMydZKYlY4RhbCi4gQcYtxsMT6HHGjeVANyOZGDpduGa1DYUg1vA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:07:26,966 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 08:07:26,968 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 08:07:26,969 - twilio.http_client - INFO - Headers:
+2025-06-15 08:07:26,970 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 08:07:26,971 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 08:07:26,972 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 08:07:26,973 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 08:07:26,973 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 08:07:26,974 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 08:07:27,301 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 08:07:27,303 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 02:37:26 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAab4d2048f70d8c0a843d6629b4436e25', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQf176f062fa743d62b8920f24793139ef', 'Twilio-Request-Duration': '0.072', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 0261a45edf9fa8a52158083448fcb032.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'PDRGoOZweebYGSBKYwg-jbb1oZboGhtGsB3II0e7-d3W5pojb_Jtfg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 08:07:30,878 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 08:09:14,269 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:09:18,723 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 08:09:31,675 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 08:10:42,081 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:10:49,242 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 08:11:14,038 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 08:11:14,039 - root - INFO - Face recognition started
+2025-06-15 08:11:15,087 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:15"}
+2025-06-15 08:11:20,102 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:20"}
+2025-06-15 08:11:25,104 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:25"}
+2025-06-15 08:11:30,129 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:30"}
+2025-06-15 08:11:35,162 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:35"}
+2025-06-15 08:11:40,195 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:40"}
+2025-06-15 08:11:45,196 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:45"}
+2025-06-15 08:11:50,214 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 08:11:50"}
+2025-06-15 08:16:35,206 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 08:18:25,522 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 09:52:09,747 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 09:52:18,023 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 09:52:22,626 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:22,627 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 09:52:22,628 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:22,630 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:22,632 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:22,633 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:22,634 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:22,635 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:22,637 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:23,502 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:23,504 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:22 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ5e1f3e0ef34b756a897f8b21064dd358', 'Twilio-Request-Duration': '0.141', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 6fe12e187db7f2679aca203ae6b43944.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'Q1osX13MMPOlgpc9ucU1RvJ7UIujhOfAg1ejNElrmfEcsOzweT9hlQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:23,505 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:23,506 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 09:52:23,507 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:23,509 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:23,510 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:23,511 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:23,512 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:23,513 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:23,514 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:23,922 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:23,923 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:23 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA055f4264127bcc35288551f4b5dd5adf', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ0b4d867b673785ea1475cbfa1fc249bf', 'Twilio-Request-Duration': '0.074', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 6fe12e187db7f2679aca203ae6b43944.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '9uuQNQn3Pv3QkzLKpH3xVVCm9WZbng8YxSeXfzMRgtaeJPxS5vFt_Q==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:28,157 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:28,159 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 09:52:28,162 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:28,163 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:28,164 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:28,165 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:28,165 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:28,166 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:28,167 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:28,645 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:28,646 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:28 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ7eea5ee533588d5a9863dca8cea0a2f6', 'Twilio-Request-Duration': '0.118', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 41dd21519f03f53f3ae1cb69808c643e.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'SE2tAhaRvjP8tn4DpaF-VpEEx4cAVyvqmFL3rYL-Fmri9EOzaY3stA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:28,648 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:28,648 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 09:52:28,649 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:28,650 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:28,650 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:28,651 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:28,652 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:28,653 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:28,654 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:28,990 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:28,991 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:28 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAd253c2b0110e97a8e900578d3c11a25f', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQd1a54dce76b33711e58526123051757d', 'Twilio-Request-Duration': '0.068', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 41dd21519f03f53f3ae1cb69808c643e.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'WyB9IQb694O_3pk4L2Hq1cAQUq8Rd5Qlar5GDr4McFdWNIkotTFCAA==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:31,567 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:31,568 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 09:52:31,570 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:31,571 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:31,573 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:31,574 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:31,576 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:31,577 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:31,578 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:32,165 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:32,166 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:31 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ67c34a04d888be4439d2c01187aa7514', 'Twilio-Request-Duration': '0.124', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'DWG6CvKJchhc4Y8FAcTu3jeA8JIKP71-1pYQtQSuGHVENwFnHNC8Bg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:32,169 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 09:52:32,169 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 09:52:32,170 - twilio.http_client - INFO - Headers:
+2025-06-15 09:52:32,171 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 09:52:32,171 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 09:52:32,172 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 09:52:32,172 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 09:52:32,173 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 09:52:32,174 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 09:52:32,575 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 09:52:32,577 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:22:32 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA90c775cc47b6faa9bf11e38e902e2630', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ6da56265d610c95d0ec6d6f4d545138a', 'Twilio-Request-Duration': '0.071', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 f193db4ca15282854bb68270a34c2db2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'nxEylOHCTIlNJq1TYPtOqO7nRzB06orvRqeP8NXZqNZnmrzFGNSjtQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 09:52:33,077 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:19:59,406 - root - INFO - Event logged: === Monitoring Session Summary ===
+2025-06-15 10:19:59,419 - EmergencySoundTracker - ERROR - Error during cleanup: 'MonitoringSystem' object has no attribute 'total_blinks'
+2025-06-15 10:21:15,369 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:21:21,723 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:21:28,950 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:28,951 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:28,952 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:28,952 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:28,953 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:28,954 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:28,954 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:28,956 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:28,957 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:29,694 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:29,696 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:29 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ0d97c661ecef4cc3e0b25e4b50b3d201', 'Twilio-Request-Duration': '0.146', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 9f3f4cadb8601c4fc66883a04796dbd0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'NrvepA9LQezB_-j_qUH9y4NmSyr48yvqDNm9NaqPds80JwjzKdE7Lw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:29,698 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:29,699 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:29,700 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:29,701 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:29,702 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:29,703 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:29,704 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:29,705 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:29,707 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:30,104 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:30,105 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:29 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAae910e3bdcdb0eaf8d19d4e1252c12d8', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ6776de2a725b33411d2861caf8cccd1a', 'Twilio-Request-Duration': '0.079', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 9f3f4cadb8601c4fc66883a04796dbd0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'Ip9-AUaJrv-8-hpXNgQeDx2HmVNrrWfbu83XxqEIxcHnK-l4QB7BEg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:30,128 - EmergencySoundTracker - INFO - [2025-06-15 10:21:30] EMERGENCY: Eyes closed too long. Possible fatigue or emergency.
+2025-06-15 10:21:30,129 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:30,129 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:30,130 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:30,131 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:30,132 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:30,133 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:30,134 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:30,135 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:30,136 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:30,687 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:30,688 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '890', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:30 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ11fa1fe8321132f907208c64881ac103', 'Twilio-Request-Duration': '0.137', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 a8f46a0f81ad5be499efe8a1372dd92a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'EUzh4lIw8vRor6IQqegyw7qjcjkUNA0FywZHvFFjzskct2DU6cNC-w==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:30,691 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:30,692 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:30,692 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:30,693 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:30,694 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:30,695 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:30,696 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:30,697 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:30,697 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:31,128 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:31,129 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:30 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA82441bc1527bd8de4ee14e6f2c2a9d31', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ11f1181f50d8ec1d8273e9451d698471', 'Twilio-Request-Duration': '0.080', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 a8f46a0f81ad5be499efe8a1372dd92a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'EbbTn27Kn3QXbE_YweS_Xj2ML8bZINQkpcRgd7CgfUTQfiNCpi2S0g==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:31,168 - EmergencySoundTracker - INFO - [2025-06-15 10:21:31] Blink: #1
+2025-06-15 10:21:33,878 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:21:36,312 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:21:38,501 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:38,502 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:38,503 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:38,505 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:38,506 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:38,507 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:38,508 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:38,509 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:38,510 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:39,116 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:39,117 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:38 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQd7619a4a3d31317832ee56d40f095198', 'Twilio-Request-Duration': '0.117', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 987a1f94c02320833af541bf3e9dcdf2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'fORzf5Q1Gns0Dn-TtHNkuUFYkIQjY4KdM-wpBTCi8y_Kcw2K8q_w4Q==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:39,118 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:39,119 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:39,119 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:39,120 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:39,121 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:39,122 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:39,124 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:39,125 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:39,125 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:39,525 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:39,527 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:38 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAdbfda6d562c22cad49116f9a8e9a67e8', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ188916504addf35a195151e6c28b81ab', 'Twilio-Request-Duration': '0.095', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 987a1f94c02320833af541bf3e9dcdf2.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'uhGWkqEaB3NhkdKORnX26EnobZM8iy9OHHFKhZZ3N3t1AHzbpEBK4Q==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:41,267 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:41,268 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:41,269 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:41,271 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:41,272 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:41,273 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:41,273 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:41,275 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:41,275 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:41,777 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:41,778 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:41 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQdd66d026b7e5aa1dfe3973785b507aa7', 'Twilio-Request-Duration': '0.132', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 af4d78ee1727d0d18598a15bd2d1e4c4.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'cT5GdiPeWpnZGaqSbn8YNYI3HX1tdDcxz7Kv5fZgsZ9ZDqFpbgxOMQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:41,781 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:41,782 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:41,783 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:41,784 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:41,785 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:41,786 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:41,787 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:41,788 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:41,790 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:42,186 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:42,187 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:41 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA7593f3d4353a03dcc562691a4fc522f2', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ3ca91fb1fc9438c89693513e118c5733', 'Twilio-Request-Duration': '0.080', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 af4d78ee1727d0d18598a15bd2d1e4c4.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'vb4xccZg_BZmDfHC6ITxTVydncIVMmVggH8bzdGlUdZhcF0CpKDiiw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:43,784 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:43,785 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:43,786 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:43,788 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:43,790 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:43,790 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:43,791 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:43,792 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:43,792 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:44,337 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:44,338 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:43 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQc4e715a46b8943cd11d0b574c197d915', 'Twilio-Request-Duration': '0.101', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 9f3f4cadb8601c4fc66883a04796dbd0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '35P7mhgIeM1MDihTsp6Nf5EkIJ9HRdEv73JeYeTNnUXl5oA0o5Cs8w==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:44,341 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:44,342 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:44,343 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:44,343 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:44,345 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:44,345 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:44,346 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:44,346 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:44,347 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:44,747 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:44,748 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:44 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAc3e1be413f56b961c03ccf8622790e54', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQca82214c11a485cf6427ec111904e911', 'Twilio-Request-Duration': '0.083', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 9f3f4cadb8601c4fc66883a04796dbd0.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'siN5yVLni-MTU0yycsAP3oamv0Pvkz_TrqVRdofZymWbz-rY3n66OQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:47,671 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:47,672 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:47,673 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:47,674 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:47,675 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:47,676 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:47,676 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:47,677 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:47,678 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:48,228 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:48,230 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:47 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ06e304bbd3e2fb6788feacd9cc10ebbe', 'Twilio-Request-Duration': '0.131', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 108d5a9e3ae4a6f7785254208da77608.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': '8aE0kQdRyNhL6dNwIICNWVH8VxV01_rbelenIgFTkufUkqUfD0mFRw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:48,232 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:48,233 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:48,234 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:48,235 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:48,236 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:48,238 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:48,239 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:48,240 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:48,241 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:48,964 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:48,965 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:48 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAa4b63da3f9ffdb7d80d074e80cefe317', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQa487bcfd046d03abb42951000a4a9649', 'Twilio-Request-Duration': '0.073', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 108d5a9e3ae4a6f7785254208da77608.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'ILL9XRIs_zMWgRLbsux8Gkfr56RzVjmbphz_FS2WWwk0AWmbBRnuGw==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:48,990 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:21:50,197 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:21:57,319 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:57,319 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:21:57,320 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:57,321 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:57,322 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:57,323 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:57,324 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:57,324 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:57,325 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:57,854 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:57,856 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '841', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:57 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQe4a3ffa2f686775c42d62765f5cffd87', 'Twilio-Request-Duration': '0.113', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 153a29b6f73d1188a3a2c0797369516a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'NMGh_-CAITo3RZzehFxPfr4R2N7E6rN31rOaRquEvFTBRWSkz0n1Wg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:21:57,858 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:21:57,859 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:21:57,861 - twilio.http_client - INFO - Headers:
+2025-06-15 10:21:57,862 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:21:57,862 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:21:57,864 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:21:57,865 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:21:57,866 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:21:57,867 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:21:58,264 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:21:58,266 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:51:57 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA5882ad1406fbb4920a44992db317037d', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ7821daed7d2dad4323f1dfef131b14f8', 'Twilio-Request-Duration': '0.078', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 153a29b6f73d1188a3a2c0797369516a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'QqGCOro1Ii_fSDx099POZzl_PXeLbMmhxqRU2fzC4Hb4NTM6y4HNRg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:22:03,323 - EmergencySoundTracker - INFO - [2025-06-15 10:22:03] Blink: #1
+2025-06-15 10:22:12,166 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:22:15,097 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:22:18,008 - EmergencySoundTracker - INFO - [2025-06-15 10:22:18] Blink: #1
+2025-06-15 10:22:30,930 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:22:33,054 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:22:33,163 - root - INFO - Event logged: === Monitoring Session Summary ===
+2025-06-15 10:22:33,163 - EmergencySoundTracker - ERROR - Error during cleanup: 'MonitoringSystem' object has no attribute 'total_blinks'
+2025-06-15 10:22:41,712 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:22:46,977 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:22:52,847 - EmergencySoundTracker - INFO - [2025-06-15 10:22:52] Blink: #1
+2025-06-15 10:23:13,963 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:23:17,303 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:23:19,505 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:23:22,113 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:23:22,116 - root - INFO - Face recognition started
+2025-06-15 10:23:23,738 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:23:23"}
+2025-06-15 10:23:28,778 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:23:28"}
+2025-06-15 10:23:34,199 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:23:34"}
+2025-06-15 10:23:39,584 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:23:39"}
+2025-06-15 10:23:43,583 - root - INFO - Face recognition stopped
+2025-06-15 10:24:08,750 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:24:08,864 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:24:08,865 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 10:24:12,115 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:24:19,912 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:24:20,644 - EmergencySoundTracker - INFO - [2025-06-15 10:24:20] Blink: #1
+2025-06-15 10:24:23,511 - EmergencySoundTracker - INFO - [2025-06-15 10:24:23] Blink: #2
+2025-06-15 10:24:23,970 - EmergencySoundTracker - INFO - [2025-06-15 10:24:23] Blink: #3
+2025-06-15 10:24:30,733 - EmergencySoundTracker - INFO - [2025-06-15 10:24:30] Blink: #4
+2025-06-15 10:24:30,733 - EmergencySoundTracker - INFO - [2025-06-15 10:24:30] EMERGENCY: Multiple blinks detected (4 blinks in 30 seconds)
+2025-06-15 10:24:30,859 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:24:30,860 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:24:30,861 - twilio.http_client - INFO - Headers:
+2025-06-15 10:24:30,861 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:24:30,862 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:24:30,862 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:24:30,863 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:24:30,863 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:24:30,864 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:24:31,969 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:24:31,970 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '887', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:54:31 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQad35a1780cd13bd26e8cd50dbea3ae6a', 'Twilio-Request-Duration': '0.130', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 108d5a9e3ae4a6f7785254208da77608.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'MeEctvvUDUkmFizwoojOxiI-_T5hia16BcRJuMWAa61SSPbNfkYX4A==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:24:31,971 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:24:31,972 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:24:31,973 - twilio.http_client - INFO - Headers:
+2025-06-15 10:24:31,974 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:24:31,975 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:24:31,975 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:24:31,976 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:24:31,976 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:24:31,976 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:24:32,378 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:24:32,380 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 04:54:31 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CAd713151d3d2a1b158d7a290962e31656', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ09cdd3181093c19841fcee577bbf7367', 'Twilio-Request-Duration': '0.079', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 108d5a9e3ae4a6f7785254208da77608.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'GBG4_kfxPaJx58I1bzzQOi5WV7zEQlqjCGVq_sqQ490oo76nLi2k-Q==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:24:35,817 - EmergencySoundTracker - INFO - [2025-06-15 10:24:35] Blink: #5
+2025-06-15 10:24:37,371 - EmergencySoundTracker - INFO - [2025-06-15 10:24:37] Blink: #6
+2025-06-15 10:24:37,569 - EmergencySoundTracker - INFO - [2025-06-15 10:24:37] Blink: #7
+2025-06-15 10:24:38,416 - EmergencySoundTracker - INFO - [2025-06-15 10:24:38] Blink: #8
+2025-06-15 10:24:47,847 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:24:52,029 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:24:52,097 - root - INFO - Event logged: === Monitoring Session Summary ===
+2025-06-15 10:24:52,098 - EmergencySoundTracker - ERROR - Error during cleanup: 'MonitoringSystem' object has no attribute 'total_blinks'
+2025-06-15 10:28:16,599 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:28:20,551 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:28:20,552 - root - INFO - Face recognition started
+2025-06-15 10:28:22,852 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:22", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:27,936 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:27", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:33,008 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:33", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:38,014 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:38", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:43,026 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:43", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:51,717 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:28:51", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:28:55,373 - root - INFO - Face recognition stopped
+2025-06-15 10:29:07,166 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:29:07,167 - root - INFO - Face recognition started
+2025-06-15 10:29:08,792 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:08", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:29:13,846 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:13", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:29:19,439 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:19", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:29:24,494 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:24", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:29:24,693 - root - INFO - Added new face for divya
+2025-06-15 10:29:48,098 - root - INFO - Face recognition stopped
+2025-06-15 10:29:49,952 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:29:49,969 - root - INFO - Loaded face for divya
+2025-06-15 10:29:49,972 - root - INFO - Face recognition started
+2025-06-15 10:29:51,542 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:51", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:29:56,591 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:29:56", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:01,661 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:01", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:08,169 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:08", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:13,667 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:30:13", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:18,742 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:18", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:23,760 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:23", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:28,831 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:28", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:47,884 - root - INFO - Face recognition stopped
+2025-06-15 10:30:48,849 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:30:48,852 - root - INFO - Loaded face for divya
+2025-06-15 10:30:48,853 - root - INFO - Face recognition started
+2025-06-15 10:30:50,300 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:50", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:30:55,332 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:30:55", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:31:00,479 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:31:00", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:31:05,480 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:31:05", "gender": "Unknown", "emotion": "Unknown"}
+2025-06-15 10:31:11,798 - root - INFO - Face recognition stopped
+2025-06-15 10:32:15,213 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:32:18,892 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:32:18,898 - root - INFO - Loaded face for divya
+2025-06-15 10:32:18,900 - root - INFO - Face recognition started
+2025-06-15 10:32:20,977 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:32:20", "emotion": "Unknown"}
+2025-06-15 10:32:26,020 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:32:26", "emotion": "Unknown"}
+2025-06-15 10:32:31,099 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:32:31", "emotion": "Unknown"}
+2025-06-15 10:32:36,127 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:32:36", "emotion": "Unknown"}
+2025-06-15 10:32:37,214 - root - INFO - Face recognition stopped
+2025-06-15 10:35:17,549 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:35:29,677 - root - INFO - Loaded face for DEEBIKA
+2025-06-15 10:35:29,680 - root - INFO - Loaded face for divya
+2025-06-15 10:35:29,682 - root - INFO - Face recognition started
+2025-06-15 10:35:31,783 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:35:31", "emotion": "Unknown"}
+2025-06-15 10:35:36,838 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:35:36", "emotion": "Unknown"}
+2025-06-15 10:35:41,911 - root - INFO - Recognized: {"name": "divya", "timestamp": "2025-06-15 10:35:41", "emotion": "Unknown"}
+2025-06-15 10:35:46,948 - root - INFO - Recognized: {"name": "DEEBIKA", "timestamp": "2025-06-15 10:35:46", "emotion": "Unknown"}
+2025-06-15 10:35:47,561 - root - INFO - Face recognition stopped
+2025-06-15 10:37:02,973 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:37:06,258 - root - INFO - Face recognition started
+2025-06-15 10:37:35,379 - root - INFO - Face recognition stopped
+2025-06-15 10:38:40,736 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:38:43,689 - root - INFO - Face recognition started
+2025-06-15 10:39:01,177 - root - INFO - Face recognition stopped
+2025-06-15 10:41:18,968 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:41:23,736 - root - INFO - Face recognition started
+2025-06-15 10:41:54,369 - root - INFO - Face recognition stopped
+2025-06-15 10:42:59,342 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:42:59,436 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:42:59,437 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 10:43:32,579 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:44:18,446 - EmergencySoundTracker - INFO - Gesture detection started
+2025-06-15 10:44:19,073 - EmergencySoundTracker - INFO - [2025-06-15 10:44:19] Blink: #1
+2025-06-15 10:44:20,382 - EmergencySoundTracker - INFO - [2025-06-15 10:44:20] Blink: #2
+2025-06-15 10:44:20,713 - EmergencySoundTracker - INFO - [2025-06-15 10:44:20] Blink: #3
+2025-06-15 10:44:21,290 - EmergencySoundTracker - INFO - [2025-06-15 10:44:21] Blink: #4
+2025-06-15 10:44:21,292 - EmergencySoundTracker - INFO - [2025-06-15 10:44:21] EMERGENCY: Multiple blinks detected (4 blinks in 30 seconds)
+2025-06-15 10:44:21,486 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:44:21,488 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Messages.json
+2025-06-15 10:44:21,488 - twilio.http_client - INFO - Headers:
+2025-06-15 10:44:21,488 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:44:21,488 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:44:21,490 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:44:21,490 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:44:21,491 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:44:21,491 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:44:22,396 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:44:22,397 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '887', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 05:14:21 GMT', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ169ef3e38410e72af675d56c3e3c1e75', 'Twilio-Request-Duration': '0.135', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4f5f6d15bf3ffcae76e580384ce0416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'JiwwN8toeg_RMzvYPe66oClqx8c1ms2K_Lu-TFZYm3b5HcMq8FqQvg==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:44:22,399 - twilio.http_client - INFO - -- BEGIN Twilio API Request --
+2025-06-15 10:44:22,399 - twilio.http_client - INFO - POST Request: https://api.twilio.com/2010-04-01/Accounts/AC39ff626709438aa9595dbfb36eee793f/Calls.json
+2025-06-15 10:44:22,400 - twilio.http_client - INFO - Headers:
+2025-06-15 10:44:22,400 - twilio.http_client - INFO - Content-Type : application/x-www-form-urlencoded
+2025-06-15 10:44:22,401 - twilio.http_client - INFO - Accept : application/json
+2025-06-15 10:44:22,401 - twilio.http_client - INFO - User-Agent : twilio-python/9.6.3 (Windows AMD64) Python/3.11.9
+2025-06-15 10:44:22,404 - twilio.http_client - INFO - X-Twilio-Client : python-9.6.3
+2025-06-15 10:44:22,406 - twilio.http_client - INFO - Accept-Charset : utf-8
+2025-06-15 10:44:22,407 - twilio.http_client - INFO - -- END Twilio API Request --
+2025-06-15 10:44:22,797 - twilio.http_client - INFO - Response Status Code: 201
+2025-06-15 10:44:22,798 - twilio.http_client - INFO - Response Headers: {'Content-Type': 'application/json;charset=utf-8', 'Content-Length': '2011', 'Connection': 'keep-alive', 'Date': 'Sun, 15 Jun 2025 05:14:22 GMT', 'Location': 'https://call-service.us1.svc.twilio.com/v2/Accounts/CA7cfc78675b1072f59551a9a860515dac', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQfabedeb588b38db7c8642e61629106f7', 'Twilio-Request-Duration': '0.071', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000', 'X-Cache': 'Miss from cloudfront', 'Via': '1.1 d4f5f6d15bf3ffcae76e580384ce0416.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 'FpFATTM68TSoFV78OzA-Pe5OjL1YogjFAc0sVuQaEQoGXOWXu5duqQ==', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'Vary': 'Origin'}
+2025-06-15 10:44:24,585 - EmergencySoundTracker - INFO - [2025-06-15 10:44:24] Blink: #5
+2025-06-15 10:44:24,820 - EmergencySoundTracker - INFO - [2025-06-15 10:44:24] Blink: #6
+2025-06-15 10:44:25,019 - EmergencySoundTracker - INFO - [2025-06-15 10:44:25] Blink: #7
+2025-06-15 10:44:25,362 - EmergencySoundTracker - INFO - [2025-06-15 10:44:25] Blink: #8
+2025-06-15 10:44:25,633 - EmergencySoundTracker - INFO - [2025-06-15 10:44:25] Blink: #9
+2025-06-15 10:44:25,769 - EmergencySoundTracker - INFO - [2025-06-15 10:44:25] Blink: #10
+2025-06-15 10:44:28,476 - EmergencySoundTracker - INFO - [2025-06-15 10:44:28] Blink: #11
+2025-06-15 10:44:29,206 - EmergencySoundTracker - INFO - [2025-06-15 10:44:29] Blink: #12
+2025-06-15 10:44:29,355 - EmergencySoundTracker - INFO - [2025-06-15 10:44:29] Blink: #13
+2025-06-15 10:44:29,456 - EmergencySoundTracker - INFO - [2025-06-15 10:44:29] Blink: #14
+2025-06-15 10:44:30,963 - EmergencySoundTracker - INFO - [2025-06-15 10:44:30] Blink: #15
+2025-06-15 10:44:31,087 - EmergencySoundTracker - INFO - [2025-06-15 10:44:31] Blink: #16
+2025-06-15 10:44:31,800 - EmergencySoundTracker - INFO - [2025-06-15 10:44:31] Blink: #17
+2025-06-15 10:44:32,476 - EmergencySoundTracker - INFO - [2025-06-15 10:44:32] Blink: #18
+2025-06-15 10:44:35,927 - EmergencySoundTracker - INFO - [2025-06-15 10:44:35] Blink: #19
+2025-06-15 10:44:36,189 - EmergencySoundTracker - INFO - [2025-06-15 10:44:36] Blink: #20
+2025-06-15 10:44:36,520 - EmergencySoundTracker - INFO - [2025-06-15 10:44:36] Blink: #21
+2025-06-15 10:44:38,781 - EmergencySoundTracker - INFO - [2025-06-15 10:44:38] Blink: #22
+2025-06-15 10:44:44,140 - EmergencySoundTracker - INFO - Gesture detection stopped
+2025-06-15 10:44:45,613 - root - INFO - Face recognition started
+2025-06-15 10:45:08,409 - root - INFO - Face recognition stopped
+2025-06-15 10:45:42,408 - root - INFO - Face recognition started
+2025-06-15 10:46:11,983 - root - INFO - Face recognition stopped
+2025-06-15 10:50:01,867 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:50:01,992 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:50:01,992 - EmergencySoundTracker - INFO - Scheduler stopped
+2025-06-15 10:51:44,701 - EmergencySoundTracker - INFO - Starting Emergency Sound Tracker application
+2025-06-15 10:52:15,385 - EmergencySoundTracker - INFO - Task scheduler stopped
+2025-06-15 10:52:15,471 - root - INFO - Event logged: === Monitoring Session Summary ===
+2025-06-15 10:52:15,471 - EmergencySoundTracker - ERROR - Error during cleanup: 'MonitoringSystem' object has no attribute 'total_blinks'

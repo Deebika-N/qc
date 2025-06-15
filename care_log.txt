@@ -1,0 +1,61 @@
+[2025-06-14 19:46:11] ALERT: Unusual nodding pattern detected.
+[2025-06-14 19:46:52] ALERT: Unusual nodding pattern detected.
+[2025-06-14 19:47:01] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:01:50] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:02:10] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:02:28] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:04:25] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:05:12] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:16:50] ALERT: Unusual nodding pattern detected.
+[2025-06-14 20:17:05] ALERT: Possible facial twitch detected.
+[2025-06-14 21:16:00] ALERT: Unusual nodding pattern detected.
+[2025-06-14 21:16:15] ALERT: Unusual nodding pattern detected.
+[2025-06-14 21:17:31] ALERT: Eyes closed too long. Possible fatigue or emergency.
+[2025-06-14 21:17:38] ALERT: Unusual nodding pattern detected.
+[2025-06-14 21:47:15] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:09:00] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:12:08] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:12:21] ALERT: Possible facial twitch detected.
+[2025-06-14 22:17:24] ALERT: Emotion detected: Neutral - possible distress.
+[2025-06-14 22:17:33] ALERT: Emotion detected: Neutral - possible distress.
+[2025-06-14 22:17:44] ALERT: Emotion detected: Neutral - possible distress.
+[2025-06-14 22:17:53] ALERT: Emotion detected: Neutral - possible distress.
+[2025-06-14 22:25:10] Emotion suggests discomfort.
+[2025-06-14 22:25:23] Emotion suggests discomfort.
+[2025-06-14 22:25:39] Emotion suggests discomfort.
+[2025-06-14 22:27:44] Emotion suggests discomfort.
+[2025-06-14 22:27:58] Emotion suggests discomfort.
+[2025-06-14 22:28:51] Emotion suggests discomfort.
+[2025-06-14 22:29:05] Emotion suggests discomfort.
+[2025-06-14 22:35:36] ALERT: Possible facial twitch detected.
+[2025-06-14 22:35:53] ALERT: Eyes closed too long. Possible emergency.
+[2025-06-14 22:36:07] ALERT: Possible facial twitch detected.
+[2025-06-14 22:43:14] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:43:33] ALERT: Eyes closed too long. Possible fatigue or emergency.
+[2025-06-14 22:48:50] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:49:06] ALERT: Eyes closed too long. Possible fatigue or emergency.
+[2025-06-14 22:54:22] ALERT: Emotion suggests discomfort.
+[2025-06-14 22:54:37] ALERT: Possible facial twitch detected.
+[2025-06-14 22:54:51] ALERT: Possible facial twitch detected.
+[2025-06-14 22:55:05] ALERT: Possible facial twitch detected.
+[2025-06-14 22:55:21] ALERT: Unusual nodding pattern detected.
+[2025-06-14 22:55:35] ALERT: Possible facial twitch detected.
+[2025-06-14 22:55:50] ALERT: Possible facial twitch detected.
+[2025-06-14 22:56:05] ALERT: Possible facial twitch detected.
+[2025-06-14 22:56:20] ALERT: Unusual nodding pattern detected.
+[2025-06-14 23:13:16] ALERT: Possible facial twitch detected.
+[2025-06-14 23:13:37] ALERT: Possible facial twitch detected.
+[2025-06-15 10:19:59] === Monitoring Session Summary ===
+[2025-06-15 10:22:33] === Monitoring Session Summary ===
+[2025-06-15 10:24:52] === Monitoring Session Summary ===
+[2025-06-15 10:52:15] === Monitoring Session Summary ===
+[2025-06-15 11:06:35] === Monitoring Session Summary ===
+[2025-06-15 11:14:37] === Monitoring Session Summary ===
+[2025-06-15 11:14:38] === Monitoring Session Summary ===
+[2025-06-15 11:14:45] === Monitoring Session Summary ===
+[2025-06-15 11:14:49] === Monitoring Session Summary ===
+[2025-06-15 11:14:49] === Monitoring Session Summary ===
+[2025-06-15 11:14:50] === Monitoring Session Summary ===
+[2025-06-15 11:23:22] === Monitoring Session Summary ===
+[2025-06-15 11:23:25] === Monitoring Session Summary ===
+[2025-06-15 11:23:26] === Monitoring Session Summary ===
