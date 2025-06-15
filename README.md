@@ -1,9 +1,9 @@
 # EASEEDGE - Offline AI Health Assistant
 
-**Team:** DEEBIKA N -23n214@psgtech.ac.in
+**Team:** DEEBIKA N - 23n214@psgtech.ac.in
           DIVYA NANDHINI R -send22divya@gmail.com
-          SUDHARSHANA J-sudharpsg2006@gmail.com
-          ATHILAKSHMI V-athiv1118@gmail.com
+          SUDHARSHANA J- sudharpsg2006@gmail.com
+          ATHILAKSHMI V- athiv1118@gmail.com
 
 ## Problem Statement
 
